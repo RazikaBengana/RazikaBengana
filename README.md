@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="README-banner/banner.png" alt="Banner Image" width="200%" height="500">
+<img src="README-banner/banner.png" alt="Banner Image" width="300%" height="500">
 
 <br>
 <br>
